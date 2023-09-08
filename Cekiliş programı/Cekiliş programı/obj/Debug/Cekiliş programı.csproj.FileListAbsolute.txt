@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\bin\Debug\Cekiliş programı.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\bin\Debug\Cekiliş programı.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\bin\Debug\Cekiliş programı.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\obj\Debug\Cekiliş programı.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\obj\Debug\Cekiliş_programı.Form1.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\obj\Debug\Cekiliş_programı.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\obj\Debug\Cekiliş programı.csproj.GenerateResource.Cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\obj\Debug\Cekiliş programı.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Cekiliş programı\Cekiliş programı\obj\Debug\Cekiliş programı.pdb
